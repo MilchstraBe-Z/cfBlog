@@ -1,6 +1,22 @@
-# Rin
+# MilchstraBe's Tech Home
+[English]((./README.md)) | 简体中文
 
-[English](./README.md) | 简体中文
+欢迎来到我的博客~这是我第一个动态博客，在这里我会分享一些个人的想法/技术，希望能帮到大家。博客的源代码来自[这里 (Rin)](https://github.com/OXeu/Rin).
+
+尽管我是根据官方文档搭建的这个博客，但是我得说官方的原文档逻辑有点点问题。像我这样的菜鸡真的一直来回翻整个文档，再根据上下文猜测下一步。
+
+我后面发现有一个写的非常好的文章推荐给大家（为什么在debug前我没看到T_T）我之后也会做一个英文版本的说明。
+
+## Manual: 
+
+CN: [Rin 博客简易部署教程 — 笨蛋小破站](https://blog.obdo.cc/feed/10)
+
+EN: 
+##
+下面是作者的原文档：
+
+
+# Rin
 
 
 ![封面](https://repository-images.githubusercontent.com/803866357/958bc2c1-1703-4127-920c-853291495bdc)

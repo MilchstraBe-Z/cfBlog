@@ -1,6 +1,23 @@
-# Rin
+# MilchstraBe's Tech Home
 
 English | [简体中文](./README_zh_CN.md)
+
+Welcome~ This is my fisrt blog with both frontend and backend. I will share some thoughts and techniques here. Hope you will find them helpful. The original code is from [Rin](https://github.com/OXeu/Rin). 
+
+Although I set up this blog from the original doc but I should say it's time consouming and tough for a noob (yeah, it's me haha). The doc really has some problems with the logic and you will find it hard to follow (you need to jump around in your reading to successfully deploy the website).
+
+Here's an userfriendly guide from other user. If you get into trouble, you cloud refer to this manual.
+
+## Manual: 
+
+CN: [Rin 博客简易部署教程 — 笨蛋小破站](https://blog.obdo.cc/feed/10)
+
+EN: I will give an translated version. It may postpone to the end of this year as I am busy with my study now. SORRY! :<(
+##
+Below is the original document.
+
+
+# Rin
 
 ![Cover](https://repository-images.githubusercontent.com/803866357/958bc2c1-1703-4127-920c-853291495bdc)
 
